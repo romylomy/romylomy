@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bean-BrewCup-](https://github.com/romylomy/Bean-BrewCup-)
 
-- 🌱 I’m currently learning **Next.js and tailwindcss**
+- 🌱 I’m currently learning **Next.js, tailwindcss, daisyUi, Railway, Prisma**
 
 - 👯 I’m looking to collaborate on [The Odin Project](https://www.theodinproject.com/)
 
