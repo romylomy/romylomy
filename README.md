@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jerome Corpuz</h1>
 <h3 align="center">I am a Software Development student at Southern Alberta Institute Of Technology</h3>
 
-- 🔭 I’m currently working on [Bean-BrewCup-](https://github.com/romylomy/Bean-BrewCup-)
+- 🔭 I’m currently working on [EcommerceWebsite](https://github.com/romylomy/EcommerceWebsite)
 
 - 🌱 I’m currently learning ** Typescript, Next.js, tailwindcss, daisyUi, Railway, Prisma**
 
