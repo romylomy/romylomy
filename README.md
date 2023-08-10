@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [EcommerceWebsite](https://github.com/romylomy/EcommerceWebsite)
 
-- 🌱 I’m currently learning ** Typescript, Next.js, tailwindcss, daisyUi, Railway, Prisma**
+- 🌱 I’m currently learning ** Typescript, Next.js, tailwindcss, daisyUi, Railway, Prisma, Stripe**
 
 - 👯 I’m looking to collaborate on [The Odin Project](https://www.theodinproject.com/)
 
